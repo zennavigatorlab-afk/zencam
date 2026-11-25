@@ -1,0 +1,6 @@
+{
+  "name": "ZEN CAM",
+  "description": "Wireless Android webcam and local document scanner PWA for Windows 10 e-Sevai workstations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
